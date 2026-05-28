@@ -4,6 +4,17 @@
 # chainpulse-ai
 Advanced AI-powered crypto analytics dashboard with whale tracking, smart signals and real-time market monitoring.
 
+# CORE FEATURES
+
+| Feature | Description |
+|---|---|
+| AI Signals | Smart market analysis |
+| Whale Tracker | Large wallet monitoring |
+| Market Scanner | Realtime trend detection |
+| Smart Alerts | Instant notifications |
+| Analytics Engine | AI-powered insights |
+| Dashboard | Modern crypto terminal |
+
 # CHAINPULSE AI
 
 ### Advanced AI Crypto Analytics Terminal
