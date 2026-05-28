@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="./Assets/logo.png" width="140">
+</p>
+<p align="center">
   <img src="./Screenshots/banner.png" width="100%">
 </p>
 # chainpulse-ai
