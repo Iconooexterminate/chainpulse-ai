@@ -4,6 +4,18 @@
 # chainpulse-ai
 Advanced AI-powered crypto analytics dashboard with whale tracking, smart signals and real-time market monitoring.
 
+# QUICK START
+
+```bash
+1. Download latest release
+2. Extract archive
+3. Launch ChainPulseAI.exe
+4. Connect exchange API
+5. Start realtime analytics
+```
+
+# ► [DOWNLOAD NOW](../../releases/latest)
+
 # CORE FEATURES
 
 | Feature | Description |
