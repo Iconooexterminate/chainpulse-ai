@@ -43,7 +43,12 @@ The platform combines:
 
 inside one lightweight dashboard.
 
----
+
+# PLATFORM PREVIEW
+
+<p align="center">
+  <img src="./Screenshots/dashboard-preview.png" width="100%">
+</p>
 
 # LIVE FEATURES
 
