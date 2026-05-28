@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Screenshots/banner.png" width="100%">
+</p>
 # chainpulse-ai
 Advanced AI-powered crypto analytics dashboard with whale tracking, smart signals and real-time market monitoring.
 
