@@ -6,7 +6,10 @@ Advanced AI-powered crypto analytics dashboard with whale tracking, smart signal
 ### Advanced AI Crypto Analytics Terminal
 
 <div align="center">
-
+<img src="https://img.shields.io/badge/STATUS-STABLE-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/SECURITY-ACTIVE-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-ENABLED-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/MARKET-REALTIME-orange?style=for-the-badge">
 <img src="https://img.shields.io/github/downloads/Iconooexterminate/chainpulse-ai/total?style=for-the-badge&color=orange">
 <img src="https://img.shields.io/github/stars/Iconooexterminate/chainpulse-ai?style=for-the-badge&color=yellow">
 <img src="https://img.shields.io/github/v/release/Iconooexterminate/chainpulse-ai?style=for-the-badge&color=red">
